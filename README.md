@@ -45,7 +45,7 @@ The model uses important patient information such as:
 ## Project Links
 
 GitHub Repository  
-https://github.com/yourusername/covid-mortality-prediction
+https://github.com/gvamshispl/COVID-19-Mortality-Risk-Predictor
 
 Live Application (Hugging Face)  
 https://huggingface.co/spaces/gvamshispl/COVID-Patient-Survival-Predictor
